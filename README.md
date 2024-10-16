@@ -2,6 +2,6 @@
 
 URL
 
-```
-https://cdn.jsdelivr.net/gh/LinWhite2333/bassets/
+```text
+https://cdn.jsdelivr.net/gh/LinWhite2333/bassets@main/
 ```
